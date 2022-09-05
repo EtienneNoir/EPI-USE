@@ -32,6 +32,6 @@
             $result = mysqli_query($connect, $query) or die("Unable to connect to database!"); // Executing the query using the specified connection
 
    
-        header("Location: Sign_in.php");
+        header("Location: index.php");
         
     ?>

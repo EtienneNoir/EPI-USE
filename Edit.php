@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" type="png" href="Images/favicon.png">
-    <title>Bit's Hardwares</title>
+    <title>EPI-USE</title>
 </head>
  <body id="body" onload="NavigatorOb()">
     <section id="top">
@@ -18,7 +18,7 @@
         </table>
             <nav id="nav1"> 
                 <ul id="ulNav" >
-                    <li class="link2" id="about_id"><a id="a"  href="Sign_in.php"  onMouseOver="this.style.color='#818181'" onMouseOut="this.style.color='whitesmoke'" style="margin-right:110px;"> Home </a></li>
+                    <li class="link2" id="about_id"><a id="a"  href="index.php"  onMouseOver="this.style.color='#818181'" onMouseOut="this.style.color='whitesmoke'" style="margin-right:110px;"> Home </a></li>
                     <div class="dropdown2" >
                         <li class="link2" ><a id="a" href="Tree.php" onMouseOver="this.style.color='#818181'" onMouseOut="this.style.color='whitesmoke'" style="margin-right:120px;">Tree</a></li>
                     </div>

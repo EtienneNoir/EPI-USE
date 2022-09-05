@@ -13,7 +13,7 @@
       <table id="animation_Heading">
           <tr> 
           <td><img src="Images/favicon.png" alt="Image of CPU" id="animation"></td>
-          <td><h2 id="h1"> <strong> Bit's Hardwares </strong> </h2> </td>
+          <td><h2 id="h1"> <strong> EPI-USE</strong> </h2> </td>
           </tr>
       </table>
         
@@ -22,7 +22,7 @@
             echo " 
           <nav id=\"nav1\"> 
               <ul id=\"ulNav\" >
-                  <li class=\"link2\" id=\"about_id\"><a id=\"a\"  href=\"Sign_in.php\"  onMouseOver=\"this.style.color='#818181'\" onMouseOut=\"this.style.color='whitesmoke'\" style=\"margin-right:110px;\"> Home </a></li>
+                  <li class=\"link2\" id=\"about_id\"><a id=\"a\"  href=\"index.php\"  onMouseOver=\"this.style.color='#818181'\" onMouseOut=\"this.style.color='whitesmoke'\" style=\"margin-right:110px;\"> Home </a></li>
                   
               </ul>
           </nav>
@@ -36,7 +36,7 @@
                 </div>
 
                 <div class=\"Log\">
-                    <button class=\"glowEffect\" > <a href=\"Sign_in.html\" style=\"color:whitesmoke ;text-decoration: none;\">Account Settings</a></button>
+                    <button class=\"glowEffect\" > <a href=\"index.html\" style=\"color:whitesmoke ;text-decoration: none;\">Account Settings</a></button>
                 </div> 
 
                 <div class=\"Log\">
